@@ -1,7 +1,5 @@
 # Corona Virus VR Game
 
-![Game Banner](https://via.placeholder.com/1200x300)
-
 ## 🦠 Overview
 
 Corona Virus VR Game is an immersive Virtual Reality experience that puts players inside the bloodstream to battle viruses. Taking inspiration from the pandemic, this fast-paced game transforms a serious topic into an engaging and interactive adventure.
@@ -57,12 +55,6 @@ Players become defenders of the body, armed with virtual injectors to eliminate 
 - Power-ups and special abilities
 - Online leaderboards
 - Multiplayer cooperative mode
-
-## 📸 Screenshots
-
-![Screenshot 1](https://via.placeholder.com/400x225)
-![Screenshot 2](https://via.placeholder.com/400x225)
-![Screenshot 3](https://via.placeholder.com/400x225)
 
 ## 🙏 Credits
 
